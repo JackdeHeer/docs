@@ -1,6 +1,6 @@
 # NEO White Paper
 
-Een gedistribueerd netwerk voor de Slimme Economie
+Een gedistribueerd netwerk voor de Slimme Economie.
 
 ## NEO ontwerpdoelstellingen: Slimme Economie
 
